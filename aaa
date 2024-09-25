@@ -1,2 +1,0 @@
-!pip install -qU torch==2.0.0  torchtext==0.15.1 torchvision==0.15.1
-!pip install -q transformers==4.28.1 sentencepiece
